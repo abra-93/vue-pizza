@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkclient"]=self["webpackChunkclient"]||[]).push([[227],{3227:function(n,e,r){r.r(e),r.d(e,{default:function(){return a}});var t=r(3396);function u(n,e){return(0,t.wg)(),(0,t.iD)("h1",null,"ID:")}var c=r(89);const i={},l=(0,c.Z)(i,[["render",u]]);var a=l}}]);
+//# sourceMappingURL=227.cd15bd3f.js.map
